@@ -184,10 +184,8 @@ python main.py
 
 ### 💪 ¡A codear!
 
-**Happy Coding!** 🐍✨
-
 ---
 
-*Hecho con ❤️ mientras aprendo Python*
+
 
 </div>
