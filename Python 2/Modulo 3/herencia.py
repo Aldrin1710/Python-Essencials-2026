@@ -3,12 +3,12 @@ class Star:
         self.name = name
         self.galaxy = galaxy
 
-    def str(self):
+    def __str__(self):
         return self.name + ' en ' + self.galaxy
 
 
 sun = Star("Sol", "Vía Láctea")
-print(sun.str())
+print(sun)
 
 # función issubClass(classOne, classTwo) verifica si classOne es subclase de classTwo
 # isinstance(object,class)
